@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="cover.svg"
+   inkscape:export-filename="/home/iboo/desarrollo/indary/originals/cover.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4103">
+      <stop
+         style="stop-color:#6c5353;stop-opacity:1;"
+         offset="0"
+         id="stop4105" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4107" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4103"
+       id="linearGradient4109"
+       x1="3.4735401"
+       y1="946.41986"
+       x2="1038.582"
+       y2="1001.9962"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57578507"
+     inkscape:cx="552.20938"
+     inkscape:cy="246.66193"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       style="fill:url(#linearGradient4109);fill-opacity:1;stroke:none"
+       id="rect3823"
+       width="991.05585"
+       height="308.24661"
+       x="-83.509048"
+       y="747.7998" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.20646286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Dhurjati;-inkscape-font-specification:Dhurjati"
+       x="256.76178"
+       y="933.94501"
+       id="text2985-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="256.76178"
+         y="933.94501"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#cccccc;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         id="tspan3781-8">WWW.INDARY.ORG</tspan><tspan
+         sodipodi:role="line"
+         x="256.76178"
+         y="977.95306"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Rancho;-inkscape-font-specification:Rancho"
+         id="tspan3775-3" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:84.91950989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#241c1c;fill-opacity:1;stroke:none;font-family:Dhurjati;-inkscape-font-specification:Dhurjati"
+       x="134.29716"
+       y="880.4696"
+       id="text2985-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="134.29716"
+         y="880.4696"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#241c1c;font-family:Mouse Memoirs;-inkscape-font-specification:Mouse Memoirs Bold"
+         id="tspan3781-7"><tspan
+           style="fill:#241c1c;fill-opacity:1"
+           id="tspan3892-5">TECNOLOGÍA</tspan><tspan
+           style="fill:#241c1c"
+           id="tspan3890-2">PARA</tspan><tspan
+           style="fill:#241c1c"
+           id="tspan3888-8">AYUDAR</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="134.29716"
+         y="986.61902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#241c1c;font-family:Rancho;-inkscape-font-specification:Rancho"
+         id="tspan3775-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:84.91950989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Dhurjati;-inkscape-font-specification:Dhurjati"
+       x="131.13759"
+       y="883.99866"
+       id="text2985-1-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="131.13759"
+         y="883.99866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;font-family:Mouse Memoirs;-inkscape-font-specification:Mouse Memoirs"
+         id="tspan3781-7-3"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2a7fff;fill-opacity:1;font-family:Mouse Memoirs;-inkscape-font-specification:Mouse Memoirs"
+           id="tspan3892-5-7">TECNOLOGÍA</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37c871;font-family:Mouse Memoirs;-inkscape-font-specification:Mouse Memoirs"
+           id="tspan3890-2-7">PARA</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff5555;font-family:Mouse Memoirs;-inkscape-font-specification:Mouse Memoirs"
+           id="tspan3888-8-2">AYUDAR</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="131.13759"
+         y="990.14807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;font-family:Rancho;-inkscape-font-specification:Rancho"
+         id="tspan3775-8-1" /></text>
+  </g>
+</svg>
