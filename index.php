@@ -43,6 +43,14 @@
     <script src="js/global.js"></script>
   </head>
   <body>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-86160268-1', 'auto');
+      ga('send', 'pageview');
+    </script>
     <header>
       <nav id="nav">
         <div class="nav-wrapper">
@@ -100,7 +108,7 @@
         <div class="container">
           <div class="row">
             <div class="col l6 m6 s12 contact-item"><b class="i-red">E-MAIL:</b> <b>CONTACTO@INDARY.ORG</b></div>
-            <div class="col l6 m6 s12 contact-item"><b class="i-red">FACEBOOK:</b> <b><a href="https://www.facebook.com/Indary-329584570738034" target="_blank">/INDARY</a></b></div>
+            <div class="col l6 m6 s12 contact-item"><b class="i-red">FACEBOOK:</b> <b><a href="https://www.facebook.com/indaryorg" target="_blank">/INDARYORG</a></b></div>
           </div>
           <div class="row">
             <b>Made with <i class="tiny material-icons red-text">favorite</i> by </b><span class="logo i-red">Indary!</span>
