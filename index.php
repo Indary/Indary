@@ -107,7 +107,8 @@
       <div class="center">
         <div class="container">
           <div class="row">
-            <div class="col l6 m6 s12 contact-item"><b class="i-red">E-MAIL:</b> <b>CONTACTO@INDARY.ORG</b></div>
+            <div class="col l6 m6 s12 contact-item"><b class="i-red">GIT:</b> <b><a href="https://github.com/indary" target="_blank">/INDARY</a></b></div>
+            <div class="col l6 m6 s12 contact-item"><b class="i-red">E-MAIL:</b> <b><a href="mailto:contacto@indary.org">CONTACTO@INDARY.ORG</a></b></div>
             <div class="col l6 m6 s12 contact-item"><b class="i-red">FACEBOOK:</b> <b><a href="https://www.facebook.com/indaryorg" target="_blank">/INDARYORG</a></b></div>
           </div>
           <div class="row">
